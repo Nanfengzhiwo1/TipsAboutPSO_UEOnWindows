@@ -16,29 +16,29 @@
 
 * After you have played through your project a few times,you can check under **ProjectName\Saved\StagedBuilds\WindowsNoEditor\GameName\Saved**
 
-* ![image](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/assets/107869748/7043187e-c62c-4b5e-b300-29114460d906)
+> ![image](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/assets/107869748/7043187e-c62c-4b5e-b300-29114460d906)
   
 ## Why didn't 'stablepc.csv' file be generated?
 
 * have you see that?  
 
-* ![Z%UEKX9@}TDLQ_O4JQ`V6QG](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/assets/107869748/d074943f-8454-49df-a735-c3ae1ca541ce)  
+> ![Z%UEKX9@}TDLQ_O4JQ`V6QG](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/assets/107869748/d074943f-8454-49df-a735-c3ae1ca541ce)  
 
 * You need to modify these parameters when you execute this command
   
-* `ActionRPG`:Look at YourProjectName.uproject address and copy it.**Don't forget to put double quotes around the address**.
+1. `ActionRPG`:Look at YourProjectName.uproject address and copy it.**Don't forget to put double quotes around the address**.
 
-* `.scl.csv`:If you are using UE 4.27.2 or later,then you should **use .shk instead of .scl.csv.** 
+2. `.scl.csv`:If you are using UE 4.27.2 or later,then you should **use .shk instead of .scl.csv.** 
 
-* `ActionRPG_SF_ANDROID`:If you have completed the previous steps, now look at your 'PSOCaching' folder and focus on the file name, **everyone may be different**.
+3. `ActionRPG_SF_ANDROID`:If you have completed the previous steps, now look at your 'PSOCaching' folder and focus on the file name, **everyone may be different**.
 
 * ### Example(modify `ActionRPG`)  
 
-* ![O_E 8DJHRMDQEY(F_(ZXMZS](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/assets/107869748/06dc95e5-31b2-43c8-a486-6f3bc9694547)
+> ![O_E 8DJHRMDQEY(F_(ZXMZS](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/assets/107869748/06dc95e5-31b2-43c8-a486-6f3bc9694547)
   
 * ### Example(modify `ActionRPG_SF_ANDROID`)
 
-* ![~F5E~$)TVV~(SOLPZED37 X](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/assets/107869748/a410a712-d266-4c63-8ac4-d094246cb76e)           
+> ![~F5E~$)TVV~(SOLPZED37 X](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/assets/107869748/a410a712-d266-4c63-8ac4-d094246cb76e)           
 
 * ### My Target is for your reference：
 
