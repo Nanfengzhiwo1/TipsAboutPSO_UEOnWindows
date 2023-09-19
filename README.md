@@ -1,10 +1,12 @@
-***Hi，kid.By the time you see this, I've addressed these issues and hope to help you***  
+# Preface
+***My Dear Firend,***  
+***I wrote this notes for you, but when I began it I had not realized that technologies improve quicker than documents.As a result you are already too technical for tips, and by the time it is updated you will be more technical still. But some day you will be technical enough to start reading notes again.By the time you see this, I've addressed these issues and hope to help you.By the way, before that, I hope you read the documentation again.***  
+~~***Your affectionate Godfather***~~  
 
-***By the way, before that, I hope you read the documentation again***
-
-
-
-
+# Why should I use PSO?
+> Take an example to illustrate this problem:  
+> I used to go to the library to find five books, and although the location of the books did not change, it still took me some time to find them, but now there is a librarian named PSO who helps me complete the search for books, I only need to find him to get the books.  
+> Of course, once the location or number of books changes, the librarian also needs to find them again.
 
 # How can I start to use PSO?
 
