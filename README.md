@@ -4,6 +4,7 @@
 ~~***Your affectionate Godfather***~~  
 
 # Why should I use PSO?
+> The official documentation has its own definition, but I would like to give my own understanding.  
 > Take an example to illustrate this problem:  
 > I used to go to the library to find five books, and although the location of the books did not change, it still took me some time to find them, but now there is a librarian named PSO who helps me complete the search for books, I only need to find him to get the books.  
 > Of course, once the location or number of books changes, the librarian also needs to find them again.
