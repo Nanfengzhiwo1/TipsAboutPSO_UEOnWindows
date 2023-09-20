@@ -15,11 +15,12 @@
 
 # FAQ
 
+[About Configuration and Setting](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/issues/5)
+
 [About CollectedPSO folder and rec.upipelinecache file](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/issues/2)  
   
 [About stablepc.csv](https://github.com/Nanfengzhiwo1/TipsAboutPSO_UEOnWindows/issues/3)
 
-[About Configuration and Setting]()
 # The Application of PSO in Game
 
 ***["You can setup the PSO cache compiling so that it will only happen when a UI, Cutscene or Pause Menu is opened"](https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/PSOCaching/CompilingUsingPSOCachingData/)***
